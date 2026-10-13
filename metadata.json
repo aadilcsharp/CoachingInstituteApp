@@ -1,0 +1,6 @@
+{
+  "name": "BillCraft",
+  "description": "Modern mobile billing and expense management app with multiple bill templates, PDF generation, WhatsApp sharing, monthly expense reports, and interactive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
